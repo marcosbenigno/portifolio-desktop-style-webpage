@@ -1,5 +1,5 @@
 
-Portifolio desktop-style.
+Portifolio desktop-style. (in development)
 ![Screencapture 1](screencapture1.png)
 ![Screencapture 2](screencapture2.png)
 ![Screencapture 3](screencapture3.png)
